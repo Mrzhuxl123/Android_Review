@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication.multiThread;
 
 import android.graphics.Color;
 import android.os.Handler;
@@ -8,6 +8,7 @@ import androidx.annotation.ColorInt;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import com.example.myapplication.R;
 
 import java.util.Date;
 

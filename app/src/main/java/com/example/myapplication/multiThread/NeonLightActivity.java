@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication.multiThread;
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -7,6 +7,7 @@ import android.os.Message;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import com.example.myapplication.R;
 
 import java.util.Timer;
 import java.util.TimerTask;

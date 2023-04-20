@@ -1,13 +1,13 @@
-package com.example.myapplication;
+package com.example.myapplication.fragment;
 
 import android.os.Bundle;
-import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
+import com.example.myapplication.R;
 
 
 public class FragmentActivity extends AppCompatActivity {

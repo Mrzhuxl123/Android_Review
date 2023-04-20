@@ -1,18 +1,16 @@
-package com.example.myapplication;
+package com.example.myapplication.sqlite;
 
 import android.content.ContentValues;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
-import android.text.Editable;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
-
-import java.util.Map;
+import com.example.myapplication.R;
 
 public class SqliteActivity extends AppCompatActivity {
 
