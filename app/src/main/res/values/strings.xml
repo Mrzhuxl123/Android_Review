@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="cbtn_1">MC</string>
+    <string name="cbtn_2">MR</string>
+    <string name="cbtn_3">MS</string>
+    <string name="cbtn_4">M+</string>
+    <string name="cbtn_5">M-</string>
+    <string name="cbtn_6">←</string>
+    <string name="cbtn_7">CE</string>
+    <string name="cbtn_8">C</string>
+    <string name="cbtn_9">±</string>
+    <string name="cbtn_10">√</string>
+    <string name="cbtn_11">7</string>
+    <string name="cbtn_12">8</string>
+    <string name="cbtn_13">9</string>
+    <string name="cbtn_14">/</string>
+    <string name="cbtn_15">%</string>
+    <string name="cbtn_16">4</string>
+    <string name="cbtn_17">5</string>
+    <string name="cbtn_18">6</string>
+    <string name="cbtn_19">*</string>
+    <string name="cbtn_20">1/x</string>
+    <string name="cbtn_21">1</string>
+    <string name="cbtn_22">2</string>
+    <string name="cbtn_23">3</string>
+    <string name="cbtn_24">-</string>
+    <string name="cbtn_25">=</string>
+    <string name="cbtn_26">0</string>
+    <string name="cbtn_27">.</string>
+    <string name="cbtn_28">+</string>
+    <string name="columWeight">1</string>
+    <string name="rowWeight">1</string>
 </resources>
