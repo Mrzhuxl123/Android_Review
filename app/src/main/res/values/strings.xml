@@ -30,4 +30,10 @@
     <string name="cbtn_28">+</string>
     <string name="columWeight">1</string>
     <string name="rowWeight">1</string>
+    <string-array name="my_subject">
+        <item>请选择专业</item>
+        <item>软件工程</item>
+        <item>物联网工程</item>
+        <item>计算机网络</item>
+    </string-array>
 </resources>
